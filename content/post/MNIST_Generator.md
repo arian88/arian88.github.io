@@ -1,6 +1,5 @@
 ---
 title: "This is a test"
-- admin
 tags: []
 categories: []
 
