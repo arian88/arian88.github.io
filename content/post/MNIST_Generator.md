@@ -8,24 +8,12 @@ categories: []
 #   1 = List
 #   2 = Compact
 #   3 = Card
-# view: 2
+view: 2
 
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ""
-  focal_point: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: "This is a test"
+  image: ""
 ---
 
 ## Import packages
