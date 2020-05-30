@@ -14,24 +14,24 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
+# [[feature]]
+#   icon = "python"
+#   icon_pack = "fab"
+#   name = "Python"
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Artificial Intelligence"
   
-[[feature]]
-  icon = "images"
-  icon_pack = "fas"
-  name = "Computer Vision"
-  
  [[feature]]
   icon = "microchip"
   icon_pack = "fas"
   name = "Embedded Systems"
+  
+[[feature]]
+  icon = "images"
+  icon_pack = "fas"
+  name = "Computer Vision"
 
 +++
