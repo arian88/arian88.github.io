@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Artificial Intelligence Engineer and Researcher
+role: Senior Machine Learning Engineer and Researcher
 
 # Organizations/Affiliations
 # organizations:
