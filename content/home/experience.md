@@ -56,9 +56,7 @@ experience:
       * Development of deep learning frameworks and libraries
       * Model optimisation, compression and quantization
 
-
-
-    - title: Research Assistant
+  - title: Research Assistant
     company: University of Oslo
     company_url: 'https://www.mn.uio.no/ifi/english/'
     company_logo: org-x
@@ -70,7 +68,7 @@ experience:
       * Supervision of students with dissertations and publications
       * Development of curriculum and teaching materials
 
-    - title: Professor of Semiconductor Physics
+  - title: Professor of Semiconductor Physics
     company: Samsung Innovation House
     company_url: 'https://www.samsungnext.com/'
     company_logo: org-x
