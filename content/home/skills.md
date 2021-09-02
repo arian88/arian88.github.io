@@ -23,15 +23,15 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Artificial Intelligence"
-  
- [[feature]]
-  icon = "microchip"
-  icon_pack = "fas"
-  name = "Embedded Systems"
-  
+
 [[feature]]
   icon = "images"
   icon_pack = "fas"
   name = "Computer Vision"
+
+ [[feature]]
+  icon = "microchip"
+  icon_pack = "fas"
+  name = "Embedded Systems"
 
 +++
