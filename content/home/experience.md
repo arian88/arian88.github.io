@@ -25,7 +25,7 @@ experience:
   - title: Senior Artificial Intelligence Algorithms Developer Engineer
     company: Huawei Technologies R&D UK
     company_url: 'http://www.huawei.com'
-    company_logo: org-gc
+    company_logo: huawei
     location: Cambridge, United Kingdom
     date_start: '2019-01-01'
     date_end: ''
@@ -45,7 +45,7 @@ experience:
   - title: Senior Design Engineer
     company: Xilinx Development Corporation
     company_url: 'http://www.xilinx.com'
-    company_logo: org-x
+    company_logo: xilinx
     location: Edinburgh, United Kingdom
     date_start: '2016-10-01'
     date_end: '2019-01-01'
@@ -59,7 +59,7 @@ experience:
   - title: Research Assistant
     company: University of Oslo
     company_url: 'https://www.mn.uio.no/ifi/english/'
-    company_logo: org-x
+    company_logo: uio
     location: Oslo, Norway
     date_start: '2014-09-01'
     date_end: '2016-10-01'
@@ -68,10 +68,10 @@ experience:
       * Supervision of students with dissertations and publications
       * Development of curriculum and teaching materials
 
-  - title: Professor of Semiconductor Physics
-    company: Samsung Innovation House
+  - title: Intern
+    company: Samsung
     company_url: 'https://www.samsungnext.com/'
-    company_logo: org-x
+    company_logo: samsung
     location: California, United States
     date_start: '2014-04-01'
     date_end: '2014-09-01'
@@ -80,7 +80,7 @@ experience:
       * Digital electronics
       * Circuit design
       * Computer-aided design
-
+      
 design:
   columns: '2'
 ---
