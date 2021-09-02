@@ -1,87 +1,88 @@
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
-title = "Experience"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experience
+subtitle:
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Senior Artificial Intelligence Algorithms Developer Engineer"
-  company = "Huawei Technologies R&D UK"
-  company_url = "http://www.huawei.com"
-  location = "Cambridge, United Kingdom"
-  date_start = "2019-01-01"
-  date_end = ""
-  description = """
-  Cambridge and London Research Centre (2012 Laboratories) – Computer Vision
-  
-  Research on the following topics:
-  * Supervised and self-supervised learning
-  * Convolutional neural networks
-  * Classification
-  * Instance and semantic segmentation
-  * Autoencoders
-  * Recurrent neural networks
-  * Attention and transformers
-  * Generative and adversarial networks
-  """
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Senior Artificial Intelligence Algorithms Developer Engineer
+    company: Huawei Technologies R&D UK
+    company_url: 'http://www.huawei.com'
+    company_logo: org-gc
+    location: Cambridge, United Kingdom
+    date_start: '2019-01-01'
+    date_end: ''
+    description: |2-
+      Cambridge and London Research Centre (2012 Laboratories) – Computer Vision
+      
+      Research on the following topics:
+      * Supervised and self-supervised learning
+      * Convolutional neural networks
+      * Classification
+      * Instance and semantic segmentation
+      * Autoencoders
+      * Recurrent neural networks
+      * Attention and transformers
+      * Generative and adversarial networks
+        
+  - title: Senior Design Engineer
+    company: Xilinx Development Corporation
+    company_url: 'http://www.xilinx.com'
+    company_logo: org-x
+    location: Edinburgh, United Kingdom
+    date_start: '2016-10-01'
+    date_end: '2019-01-01'
+    description: |2-
+      * Design of artificial intelligence accelerators
+      * Implementation of efficient deep convolutional neural networks
+      * Low-latency computations for real-time applications
+      * Development of deep learning frameworks and libraries
+      * Model optimisation, compression and quantization
 
-[[experience]]
-  title = "Senior Design Engineer"
-  company = "Xilinx Development Corporation"
-  company_url = "http://www.xilinx.com"
-  location = "Edinburgh, United Kingdom"
-  date_start = "2016-10-01"
-  date_end = "2019-01-01"
-  description = """
-  
-  * Design of artificial intelligence accelerators
-  * Implementation of efficient deep convolutional neural networks
-  * Low-latency computations for real-time applications
-  * Development of deep learning frameworks and libraries
-  * Model optimisation, compression and quantization
-  """
 
-[[experience]]
-  title = "Research Assistant"
-  company = "University of Oslo"
-  company_url = "https://www.mn.uio.no/ifi/english/"
-  location = "Oslo, Norway"
-  date_start = "2014-09-01"
-  date_end = "2016-10-01"
-  description = """
-  
-  * Teach both undergraduate and postgraduate level courses
-  * Supervision of students with dissertations and publications
-  * Development of curriculum and teaching materials
-  """
 
-[[experience]]
-  title = ""
-  company = "Samsung Innovation House"
-  company_url = "https://www.samsungnext.com/"
-  location = "California, United States"
-  date_start = "2014-04-01"
-  date_end = "2014-09-01"
-  description = """
-  
-  * Development of ARM Cortex-M bootloader and firmware
-  * Digital electronics
-  * Circuit design
-  * Computer-aided design
+    - title: Research Assistant
+    company: University of Oslo
+    company_url: 'https://www.mn.uio.no/ifi/english/'
+    company_logo: org-x
+    location: Oslo, Norway
+    date_start: '2014-09-01'
+    date_end: '2016-10-01'
+    description: |2-
+      * Teach both undergraduate and postgraduate level courses
+      * Supervision of students with dissertations and publications
+      * Development of curriculum and teaching materials
 
-  """
+    - title: Professor of Semiconductor Physics
+    company: Samsung Innovation House
+    company_url: 'https://www.samsungnext.com/'
+    company_logo: org-x
+    location: California, United States
+    date_start: '2014-04-01'
+    date_end: '2014-09-01'
+    description: |2-
+      * Development of ARM Cortex-M bootloader and firmware
+      * Digital electronics
+      * Circuit design
+      * Computer-aided design
 
-+++
+design:
+  columns: '2'
+---
