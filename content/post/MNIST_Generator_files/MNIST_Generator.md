@@ -506,23 +506,23 @@ history  = autoencoder.fit(train_dataset, epochs=EPOCH_SIZE,
     
 
 
-![png](MNIST_Generator_files/MNIST_Generator_32_1.png)
+![png](MNIST_Generator_32_1.png)
 
 
 
-![png](MNIST_Generator_files/MNIST_Generator_32_2.png)
+![png](MNIST_Generator_32_2.png)
 
 
 
-![png](MNIST_Generator_files/MNIST_Generator_32_3.png)
+![png](MNIST_Generator_32_3.png)
 
 
 
-![png](MNIST_Generator_files/MNIST_Generator_32_4.png)
+![png](MNIST_Generator_32_4.png)
 
 
 
-![png](MNIST_Generator_files/MNIST_Generator_32_5.png)
+![png](MNIST_Generator_32_5.png)
 
 
 
