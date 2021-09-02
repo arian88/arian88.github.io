@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description:
   icon: brain
   icon_pack: fas
   name: Artificial Intelligence
-- description: 100%
+- description:
   icon: images
   icon_pack: fas
   name: Computer Vision
-- description: 10%
+- description:
   icon: microchip
   icon_pack: fas
   name: Embedded Systems
