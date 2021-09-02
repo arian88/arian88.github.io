@@ -1,7 +1,7 @@
 ---
-title: "This is a test"
-tags: []
-categories: []
+title: "Fashion-MNIST Generation with Tensorflow"
+tags: [tensorflow, generative models, fashion-mnist]
+categories: [deep learning, computer vision]
 authors:
 - admin
 # Projects (optional).
