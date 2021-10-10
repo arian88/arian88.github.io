@@ -1,3 +1,32 @@
+---
+title: "Pi2Pix with Pytorch and PyTorch Lightning"
+tags: [pytorch, generative models, generative adversarial networks, pix2pix]
+categories: [machine learning, deep learning, computer vision]
+authors:
+- admin
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+
+featured: false
+draft: false
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+view: 2
+---
+
 # Import packages
 
 ```python
