@@ -5,7 +5,7 @@
 
 title: 'Aryan Esfandiari' # Website name
 baseurl: 'https://aryan.no' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Aryan Esfandiari' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
