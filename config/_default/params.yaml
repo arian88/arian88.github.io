@@ -64,7 +64,7 @@ main_menu:
 
 # Localization
 
-date_format: 'Mon, Jan 2, 2006'
+date_format: 'Mon, 2 Jan, 2006'
 time_format: '15:04'
 address_format: en-gb
 
