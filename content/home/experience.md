@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Artificial Intelligence Algorithms Developer Engineer
+  - title: Senior Artificial Intelligence Researcher and Engineer
     company: Huawei Technologies R&D UK
     company_url: 'http://www.huawei.com'
     company_logo: huawei
@@ -43,9 +43,9 @@ experience:
       * Generative and adversarial networks
         
   - title: Senior Design Engineer
-    company: Xilinx Development Corporation
+    company: Advanced Micro Devices
     company_url: 'http://www.xilinx.com'
-    company_logo: xilinx
+    company_logo: amd
     location: Edinburgh, United Kingdom
     date_start: '2016-10-01'
     date_end: '2019-01-01'
@@ -68,7 +68,7 @@ experience:
       * Supervision of students with dissertations and publications
       * Development of curriculum and teaching materials
 
-  - title: Intern
+  - title: Embedded System Engineer
     company: Samsung
     company_url: 'https://www.samsungnext.com/'
     company_logo: samsung

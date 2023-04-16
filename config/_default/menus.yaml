@@ -26,5 +26,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: "Curriculum Vitae"
-    url: "files/ARYAN_ESFANDIARI_CV_2022.pdf"
+    url: "files/ARYAN_ESFANDIARI_CV_2023.pdf"
     weight: 70
