@@ -35,14 +35,14 @@ experience:
       Research on the following topics:
       * Supervised and self-supervised learning
       * Convolutional neural networks
-      * Classification
-      * Instance and semantic segmentation
-      * Autoencoders
-      * Recurrent neural networks
       * Attention and transformers
       * Generative and adversarial networks
-        
-  - title: Senior Design Engineer
+      * Autoencoders
+      * Recurrent neural networks
+      * Classification
+      * Instance and semantic segmentation
+
+  - title: Senior Machine Learning Design Engineer
     company: Advanced Micro Devices
     company_url: 'http://www.xilinx.com'
     company_logo: amd
