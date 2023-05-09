@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Doctor of Philosophy in Artificial Medical Intelligence
+    institution: King’s College London and Imperial College London
+    year: 2022
   - course: Master of Science in Robotics and Intelligent Systems
     institution: University of Oslo and University of California of Berkeley
     year: 2016
