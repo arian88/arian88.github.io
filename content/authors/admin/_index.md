@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Doctor of Philosophy in Artificial Medical Intelligence
+  - course: Doctor of Philosophy in Medical Artificial Intelligence
     institution: King’s and Imperial College London
     year: 2022
   - course: Master of Science in Robotics and Intelligent Systems
