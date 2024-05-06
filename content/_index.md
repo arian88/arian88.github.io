@@ -70,17 +70,17 @@ sections:
           date_start: '2019-01-01'
           date_end: ''
           description: |2-
-            Cambridge and London Research Centre (2012 Laboratories) – Computer Vision
-            
-            Research on the following topics:
-            * Supervised and self-supervised learning
-            * Convolutional neural networks
-            * Attention and transformers
-            * Generative and adversarial networks
-            * Autoencoders
-            * Recurrent neural networks
-            * Classification
-            * Instance and semantic segmentation
+              Cambridge and London Research Centre (2012 Laboratories) – Computer Vision
+
+              Research on the following topics:
+              * Supervised and self-supervised learning
+              * Convolutional neural networks
+              * Attention and transformers
+              * Generative and adversarial networks
+              * Autoencoders
+              * Recurrent neural networks
+              * Classification
+              * Instance and semantic segmentation
         - title: Senior Machine Learning Design Engineer
             company: Advanced Micro Devices
             company_url: 'http://www.xilinx.com'
@@ -89,11 +89,11 @@ sections:
             date_start: '2016-10-01'
             date_end: '2019-01-01'
             description: |2-
-              * Design of artificial intelligence accelerators
-              * Implementation of efficient deep convolutional neural networks
-              * Low-latency computations for real-time applications
-              * Development of deep learning frameworks and libraries
-              * Model optimisation, compression and quantization
+                * Design of artificial intelligence accelerators
+                * Implementation of efficient deep convolutional neural networks
+                * Low-latency computations for real-time applications
+                * Development of deep learning frameworks and libraries
+                * Model optimisation, compression and quantization
         - title: Research Assistant
             company: University of Oslo
             company_url: 'https://www.mn.uio.no/ifi/english/'
@@ -102,9 +102,9 @@ sections:
             date_start: '2014-09-01'
             date_end: '2016-10-01'
             description: |2-
-              * Teach both undergraduate and postgraduate level courses
-              * Supervision of students with dissertations and publications
-              * Development of curriculum and teaching materials
+                * Teach both undergraduate and postgraduate level courses
+                * Supervision of students with dissertations and publications
+                * Development of curriculum and teaching materials
         - title: Embedded System Engineer
             company: Samsung
             company_url: 'https://www.samsungnext.com/'
@@ -113,10 +113,10 @@ sections:
             date_start: '2014-04-01'
             date_end: '2014-09-01'
             description: |2-
-              * Development of ARM Cortex-M bootloader and firmware
-              * Digital electronics
-              * Circuit design
-              * Computer-aided design
+                * Development of ARM Cortex-M bootloader and firmware
+                * Digital electronics
+                * Circuit design
+                * Computer-aided design
     design:
       columns: '2'
   - block: accomplishments
