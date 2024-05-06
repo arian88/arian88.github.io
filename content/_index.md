@@ -81,7 +81,6 @@ sections:
             * Recurrent neural networks
             * Classification
             * Instance and semantic segmentation
-
         - title: Senior Machine Learning Design Engineer
             company: Advanced Micro Devices
             company_url: 'http://www.xilinx.com'
@@ -95,7 +94,6 @@ sections:
               * Low-latency computations for real-time applications
               * Development of deep learning frameworks and libraries
               * Model optimisation, compression and quantization
-
         - title: Research Assistant
             company: University of Oslo
             company_url: 'https://www.mn.uio.no/ifi/english/'
@@ -107,7 +105,6 @@ sections:
               * Teach both undergraduate and postgraduate level courses
               * Supervision of students with dissertations and publications
               * Development of curriculum and teaching materials
-
         - title: Embedded System Engineer
             company: Samsung
             company_url: 'https://www.samsungnext.com/'
@@ -120,7 +117,6 @@ sections:
               * Digital electronics
               * Circuit design
               * Computer-aided design
-              
     design:
       columns: '2'
   - block: accomplishments
