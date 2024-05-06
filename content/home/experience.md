@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Artificial Intelligence Researcher and Engineer
+  - title: Principal Artificial Intelligence Researcher and Engineer
     company: Huawei Technologies R&D UK
     company_url: 'http://www.huawei.com'
     company_logo: huawei

@@ -6,7 +6,7 @@ title: Aryan Esfandiari
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning Engineer and Researcher
+role: Principal Machine Learning Engineer and Researcher
 
 # Organizations/Affiliations to show in About widget
 # organizations:
