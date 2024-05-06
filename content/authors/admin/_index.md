@@ -20,9 +20,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Artificial Intelligence
 - Neural Networks
-- Computer Vision
 - Deep Learning
-- Embedded Systems
+- Computer Vision
+- Generative Models
+- Natural Language Processing
+- Large Language and Vision Models
+- Robotics
 
 # Education to show in About widget
 education:

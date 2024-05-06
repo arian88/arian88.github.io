@@ -35,12 +35,10 @@ experience:
       Research on the following topics:
       * Supervised and self-supervised learning
       * Convolutional neural networks
-      * Attention and transformers
+      * Transformers
       * Generative and adversarial networks
-      * Autoencoders
-      * Recurrent neural networks
-      * Classification
-      * Instance and semantic segmentation
+      * Autoencoders and recurrent neural networks
+      * Model compression, pruning, quantization and knowledge distillation
 
   - title: Senior Machine Learning Design Engineer
     company: Advanced Micro Devices
@@ -52,9 +50,9 @@ experience:
     description: |2-
       * Design of artificial intelligence accelerators
       * Implementation of efficient deep convolutional neural networks
-      * Low-latency computations for real-time applications
-      * Development of deep learning frameworks and libraries
+      * Development of deep learning architechtures, frameworks and libraries
       * Model optimisation, compression and quantization
+      * On-device deployment for time-critical and real-time applications
 
   - title: Research Assistant
     company: University of Oslo
@@ -76,9 +74,9 @@ experience:
     date_start: '2014-04-01'
     date_end: '2014-09-01'
     description: |2-
-      * Development of ARM Cortex-M bootloader and firmware
+      * Development of advanced embedding systems and Internet of Things (IoT)
+      * On-board data acquisition and processing
       * Digital electronics
-      * Circuit design
       * Computer-aided design
       
 design:
