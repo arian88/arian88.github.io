@@ -62,19 +62,25 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Senior Artificial Intelligence Researcher and Engineer
+          company: Huawei Technologies R&D UK
+          company_url: 'http://www.huawei.com'
+          company_logo: huawei
+          location: Cambridge, United Kingdom
+          date_start: '2019-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+          Cambridge and London Research Centre (2012 Laboratories) – Computer Vision
 
-              * Analysing
-              * Modelling
-              * Deploying
+          Research on the following topics:
+          * Supervised and self-supervised learning
+          * Convolutional neural networks
+          * Attention and transformers
+          * Generative and adversarial networks
+          * Autoencoders
+          * Recurrent neural networks
+          * Classification
+          * Instance and semantic segmentation
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
