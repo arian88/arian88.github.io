@@ -3,13 +3,13 @@
 # title: ''
 
 # Name pronunciation (optional)
-name_pronunciation: 'Aryan Esfandiari'
+name_pronunciation: Aryan Esfandiari
 
 # Full name (for SEO)
-first_name: 'Aryan'
-last_name: 'Esfandiari'
+first_name: Aryan
+last_name: Esfandiari
 
-email: "arian88@gmail.com"
+email: arian88@gmail.com
 
 # Status emoji
 status:
@@ -19,7 +19,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 'Senior Machine Learning Engineer and Researcher'
+role: Senior Machine Learning Engineer and Researcher
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -78,7 +78,7 @@ social:
 skills:
   - name: Technical
     items:
-      - name: 'Artificial Intelligence'
+      - name: Artificial Intelligence
         description: ''
         # percent: 80
         icon: brain
@@ -88,8 +88,8 @@ skills:
         # percent: 100
         icon: images
         icon_pack: fas
-      - name: SQL
-        description: 'Robotics'
+      - name: Robotics
+        description: ''
         # percent: 40
         icon: microchip
         icon_pack: fas
