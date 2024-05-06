@@ -6,7 +6,7 @@ title: Aryan Esfandiari
 superuser: true
 
 # Role/position/tagline
-role: Senior Machine Learning Engineer and Researcher
+role: Machine Learning Engineer and Researcher
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -24,7 +24,7 @@ interests:
 - Computer Vision
 - Generative Models
 - Natural Language Processing
-- Large Language and Vision Models
+- Multimodal LLMs
 - Robotics
 
 # Education to show in About widget

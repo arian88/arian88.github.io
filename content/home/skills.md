@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Computer Vision
 - description:
-  icon: microchip
+  icon: roboti
   icon_pack: fas
-  name: Embedded Systems
+  name: Robotics
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
