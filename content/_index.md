@@ -70,17 +70,18 @@ sections:
           date_start: '2019-01-01'
           date_end: ''
           description: |2-
-          Cambridge and London Research Centre (2012 Laboratories) – Computer Vision
+              Cambridge and London Research Centre (2012 Laboratories) – Computer Vision
 
-          Research on the following topics:
-          * Supervised and self-supervised learning
-          * Convolutional neural networks
-          * Attention and transformers
-          * Generative and adversarial networks
-          * Autoencoders
-          * Recurrent neural networks
-          * Classification
-          * Instance and semantic segmentation
+              Research on the following topics:
+              * Supervised and self-supervised learning
+              * Convolutional neural networks
+              * Attention and transformers
+              * Generative and adversarial networks
+              * Autoencoders
+              * Recurrent neural networks
+              * Classification
+              * Instance and semantic segmentation
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
