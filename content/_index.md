@@ -95,7 +95,32 @@ sections:
               * Low-latency computations for real-time applications
               * Development of deep learning frameworks and libraries
               * Model optimisation, compression and quantization
-
+  
+        - title: Research Assistant
+          company: University of Oslo
+          company_url: 'https://www.mn.uio.no/ifi/english/'
+          company_logo: uio
+          location: Oslo, Norway
+          date_start: '2014-09-01'
+          date_end: '2016-10-01'
+          description: |2-
+              * Teach both undergraduate and postgraduate level courses
+              * Supervision of students with dissertations and publications
+              * Development of curriculum and teaching materials
+  
+        - title: Embedded System Engineer
+          company: Samsung
+          company_url: 'https://www.samsungnext.com/'
+          company_logo: samsung
+          location: California, United States
+          date_start: '2014-04-01'
+          date_end: '2014-09-01'
+          description: |2-
+              * Development of ARM Cortex-M bootloader and firmware
+              * Digital electronics
+              * Circuit design
+              * Computer-aided design
+  
     design:
       columns: '2'
   - block: accomplishments
