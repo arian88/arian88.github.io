@@ -25,7 +25,7 @@ feature:
   icon_pack: fas
   name: Computer Vision
 - description:
-  icon: roboti
+  icon: robotic
   icon_pack: fas
   name: Robotics
 
