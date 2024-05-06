@@ -82,14 +82,20 @@ sections:
               * Classification
               * Instance and semantic segmentation
 
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Senior Machine Learning Design Engineer
+          company: Advanced Micro Devices
+          company_url: 'http://www.xilinx.com'
+          company_logo: amd
+          location: Edinburgh, United Kingdom
+          date_start: '2016-10-01'
+          date_end: '2019-01-01'
+          description: |2-
+              * Design of artificial intelligence accelerators
+              * Implementation of efficient deep convolutional neural networks
+              * Low-latency computations for real-time applications
+              * Development of deep learning frameworks and libraries
+              * Model optimisation, compression and quantization
+
     design:
       columns: '2'
   - block: accomplishments
