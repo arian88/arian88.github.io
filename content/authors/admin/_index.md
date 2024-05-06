@@ -1,19 +1,6 @@
 ---
 # Display name
-# title: ''
-
-# Name pronunciation (optional)
-name_pronunciation: Aryan Esfandiari
-
-# Full name (for SEO)
-first_name: Aryan
-last_name: Esfandiari
-
-email: arian88@gmail.com
-
-# Status emoji
-status:
-  icon: ☕️
+title: Aryan Esfandiari
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,19 +10,19 @@ role: Senior Machine Learning Engineer and Researcher
 
 # Organizations/Affiliations to show in About widget
 # organizations:
-#  - name: Stanford University
-#    url: https://www.stanford.edu/
+# - name: Stanford University
+#   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'My research interests include distributed robotics, mobile computing and programmable matter.'
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Neural Networks
-  - Computer Vision
-  - Deep Learning
-  - Embedded Systems
+- Artificial Intelligence
+- Neural Networks
+- Computer Vision
+- Deep Learning
+- Embedded Systems
 
 # Education to show in About widget
 education:
@@ -73,27 +60,23 @@ social:
   icon_pack: ai
   link: files/ARYAN_ESFANDIARI_CV_2024.pdf
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Artificial Intelligence
-        description: ''
-        # percent: 80
-        icon: brain
-        icon_pack: fas
-      - name: Computer Vision
-        description: ''
-        # percent: 100
-        icon: images
-        icon_pack: fas
-      - name: Robotics
-        description: ''
-        # percent: 40
-        icon: microchip
-        icon_pack: fas
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: "arian88@gmail.com"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
+
+
+# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include # distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which # develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+# 
+# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis # vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus # tempus vulputate.
+# 
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /# staticref >}}.
 ---
